@@ -1,4 +1,4 @@
-## Flowers Models
+## Flowers Model
 
 #### Classes
 - tulips
